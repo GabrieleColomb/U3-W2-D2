@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "title": "Post 1",
+      "body": "Descrizione del post 1.",
+      "active": true
+    },
+    {
+      "id": 2,
+      "title": "Post 2",
+      "body": "Descrizione del post 2.",
+      "active": true
+    },
+    {
+      "id": 3,
+      "title": "Post 3",
+      "body": "Descrizione del post 3.",
+      "active": false
+    },
+    {
+      "id": 4,
+      "title": "Post 4",
+      "body": "Descrizione del post 4.",
+      "active": false
+    },
+    {
+      "id": 5,
+      "title": "Post 5",
+      "body": "Descrizione del post 5.",
+      "active": true
+    },
+    {
+      "id": 6,
+      "title": "Post 6",
+      "body": "Descrizione del post 6.",
+      "active": true
+    },
+    {
+      "id": 7,
+      "title": "Post 7",
+      "body": "Descrizione del post 7.",
+      "active": false
+    },
+    {
+      "id": 8,
+      "title": "Post 8",
+      "body": "Descrizione del post 8.",
+      "active": false
+    },
+    {
+      "id": 9,
+      "title": "Post 9",
+      "body": "Descrizione del post 9.",
+      "active": true
+    },
+    {
+      "id": 10,
+      "title": "Post 10",
+      "body": "Descrizione del post 10.",
+      "active": false
+    }
+]
+
