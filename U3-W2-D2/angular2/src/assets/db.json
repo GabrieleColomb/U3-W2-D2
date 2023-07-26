@@ -1,7 +1,0 @@
-[
-  {"id":1, "titolo":"Post 1", "descrizione": "Questo è il post 1", "active":true},
-  {"id":2, "titolo":"Post 2", "descrizione": "Questo è il post 2", "active":true},
-  {"id":3, "titolo":"Post 3", "descrizione": "Questo è il post 3", "active":false},
-  {"id":4, "titolo":"Post 4", "descrizione": "Questo è il post 4", "active":true},
-  {"id":5, "titolo":"Post 5", "descrizione": "Questo è il post 5", "active":false}
-]
